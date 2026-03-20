@@ -11,13 +11,13 @@ https://my-site-u6ynope8-meghana872004.wix-vibe-site.com
 
 ---
 
-## 🎥 Demo Video
+##  Demo Video
 
-https://github.com/your-username/pathpilot-ai/assets/your-video-link
+https://github.com/Meghana872004/PathPilot-AI
 
 ---
 
-## 💡 Problem Statement
+##  Problem Statement
 
 Many students are confused about:
 - What career to choose
@@ -27,7 +27,7 @@ Many students are confused about:
 
 ---
 
-## ✅ Solution
+##  Solution
 
 PathPilot AI+ solves this by:
 - Generating a **personalized roadmap**
@@ -37,7 +37,7 @@ PathPilot AI+ solves this by:
 
 ---
 
-## 🔥 Features
+##  Features
 
 - 🎯 Career Role Recommendation  
 - 🧠 Skills Roadmap (Beginner → Advanced)  
@@ -51,7 +51,7 @@ PathPilot AI+ solves this by:
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 User provides:
 - Branch  
@@ -71,7 +71,7 @@ AI generates a **complete career intelligence report**.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add chatbot for career queries  
 - Export roadmap as PDF  
@@ -80,12 +80,12 @@ AI generates a **complete career intelligence report**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**
+**Meghana C**
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
 Give it a ⭐ on GitHub!
